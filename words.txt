@@ -1,0 +1,384 @@
+1
+BOWLING
+Knock down pins to win.
+ACROSS
+7
+5
+3
+END
+2
+BASKETBALL
+A game played between 2 teams where points are scored by throwing the ball through a hoop that is placed at a height.
+ACROSS
+10
+5
+6
+END
+3
+BOXING
+A duel between two opponents.
+ACROSS
+6
+4
+13
+END
+4
+FUTSAL
+Soccer that is played by 5 players per side.
+ACROSS
+6
+7
+7
+END
+5
+BADMINTON
+Players use a racket to hit a shuttlecock across a net.
+DOWN
+9
+5
+6
+END
+6
+CRICKET
+A game played by bat & ball by 2 teams of 11 players each.
+DOWN
+7
+9
+1
+END
+7
+VOLLEYBALL
+Played 6 players a side where a large ball is bounced across a net.
+DOWN
+10
+13
+3
+END
+8
+GOLF
+Use a club to put a ball into a hole in the ground.
+DOWN
+4
+14
+4
+FINAL
+1
+BINOCULARS
+An optical device that is used to zoom in on things that are far away in the distance.
+ACROSS
+10
+2
+4
+END
+2
+THERMOMETER
+A medical device used to measure temperature.
+ACROSS
+11
+6
+12
+END
+3
+WATCH
+An electronic device that tells time.
+ACROSS
+5
+9
+5
+END
+4
+PLATE
+A shallow, circular utensil used to hold food.
+ACROSS
+5
+13
+8
+END
+5
+SHOES
+A pair of these is worn on feet for fashion or protection from the external environment.
+DOWN
+5
+8
+9
+END
+6
+LIGHT
+An electrical appliance that assists with sight.
+DOWN
+5
+14
+8
+END
+7
+CAR
+A mechanical machine that operates on 4 wheels.
+DOWN
+3
+15
+7
+END
+8
+STETHOSCOPE
+A medical device used to listen to bodily sounds.
+DOWN
+11
+11
+4
+FINAL
+1
+MILLIPEDE
+An insect that has the greatest number of legs found in any animal.
+ACROSS
+9
+8
+9
+END
+2
+SNAKE
+A slithery reptile with scaly skins and no legs.
+ACROSS
+5
+5
+12
+END
+3
+COW
+A mammal that is the primary source of milk.
+ACROSS
+3
+7
+14
+END
+4
+MARKHOR
+The national animal of Pakistan.
+DOWN
+7
+8
+9
+END
+5
+FALCON
+The national bird of the United Arab Emirates.
+DOWN
+6
+7
+11
+END
+6
+LION
+Commonly known as the king of the jungle.
+DOWN
+4
+12
+8
+END
+7
+CHEETAH
+The fastest land animal.
+DOWN
+7
+14
+6
+END
+8
+CAMEL
+A desert-based animal that stores fat in its hump. 
+DOWN
+5
+16
+6
+FINAL
+1
+BIOGRAPHY
+A genre which is commonly considered nonfictional, the subject of which is the life of an individual.
+ACROSS
+9
+4
+12
+END
+2
+THRILLER
+A genre of literature whose primary feature is that it induces strong feelings of excitement, anxiety, tension, suspense, fear, and other similar emotions in its readers.
+ACROSS
+8
+4
+14
+END
+3
+FANTASY
+A genre of speculative fiction involving magical elements, typically set in a fictional universe.
+ACROSS
+7
+7
+8
+END
+4
+HISTORY
+A genre that is defined by its cultural and historical usage, whose features and definition are formulated from the observation of preexisting literary knowledge.
+ACROSS
+7
+9
+9
+END
+5
+HORROR
+A genre of literature that is meant to scare, startle, shock, and even repulse audiences.
+DOWN
+6
+6
+11
+END
+6
+POETRY
+A type of literature based on the interplay of words and rhythm.
+DOWN
+6
+10
+12
+END
+7
+FICTION
+A genre of literature that describes imaginary events and people.
+DOWN
+7
+9
+2
+END
+8
+MYSTERY
+A genre of literature whose stories focus on a puzzling crime, situation, or circumstance that needs to be solved.
+DOWN
+7
+12
+6
+FINAL
+1
+LAPTOP
+A computer that is portable and suitable for use while travelling.
+ACROSS
+6
+7
+5
+END
+2
+TELEVISION
+A system for converting visual images (with sound) into electrical signals, transmitting them by radio or other means, and displaying them electronically on a screen.
+ACROSS
+10
+6
+8
+END
+3
+PHONE
+A wireless handheld device that allows users to make and receive calls.
+ACROSS
+5
+6
+12
+END
+4
+CLOCK
+A mechanical or electrical device for measuring time, indicating hours, minutes, and sometimes seconds by hands on a round dial or by displayed figures.
+ACROSS
+5
+5
+13
+END
+5
+FRIDGE
+A large metal container which is kept cool by electricity so that food that is put in it stays fresh.
+ACROSS
+6
+2
+15
+END
+6
+POWERBANK
+A piece of equipment for charging an electronic device such as a mobile phone, instead of plugging it into an electrical socket in the wall.
+DOWN
+9
+9
+5
+END
+7
+MOUSE
+A small handheld device which is moved across a mat or flat surface to move the cursor on a computer screen.
+DOWN
+5
+14
+7
+END
+8
+HEADPHONES
+A pair of small speakers used for listening to sound from a computer, music player or other such electronic device.
+DOWN
+10
+7
+7
+FINAL
+1
+AMSTERDAM
+Capital of the Netherlands.
+ACROSS
+9
+4
+8
+END
+2
+LONDON
+Capital of the United Kingdom.
+ACROSS
+6
+11
+7
+END
+3
+DHAKA
+Capital of Bangladesh.
+ACROSS
+5
+11
+13
+END
+4
+HAVANA
+Capital of Cuba.
+DOWN
+6
+4
+5
+END
+5
+WASHINGTON
+Capital of the United States of America.
+DOWN
+10
+6
+6
+END
+6
+BEIJING
+Capital of China.
+DOWN
+7
+8
+7
+END
+7
+CAIRO
+Capital of Egypt.
+DOWN
+5
+9
+5
+END
+8
+ISLAMABAD
+Capital of Pakistan.
+DOWN
+9
+11
+5
+FINAL
